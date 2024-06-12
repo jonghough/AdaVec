@@ -1,4 +1,4 @@
-![unit tests](https://github.com/jonhough/AdaVec/actions/workflows/run-unit-tests.yaml/badge.svg)
+![unit tests](https://github.com/jonghough/AdaVec/actions/workflows/run-unit-tests.yaml/badge.svg)
 
 # Adavec
 
