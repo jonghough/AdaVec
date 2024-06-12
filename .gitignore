@@ -1,0 +1,16 @@
+obj/
+lib/
+alire/ 
+
+*.code-workspace
+
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
+*.ali/obj/
+**/xmlada** 
+**/alr_test**
+test_out/**
+ 

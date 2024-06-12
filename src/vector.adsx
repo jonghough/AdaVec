@@ -1,0 +1,17 @@
+-- generic
+--     type T is digits <>;
+-- package Vector is
+--    function "+" (vec1, vec2 : T) return T;
+--    function "-" (vec1, vec2 : T) return T;
+--    function "*" (vec1, vec2 : T) return Float;
+--    function "*" (vec1 : T; fl1 : T) return T;
+--    function "*" (fl1 : Float; vec1 : T) return T;
+--    function "/" (vec1 : T; fl1 : Float) return T;
+--    function Magnitude (vec1 : T) return Float;
+--    function MagnitudeSquared (vec1 : T) return Float;
+--    procedure SetX (vec : out T; vx : Float);
+--    procedure SetY (vec : out T; vy : Float);
+--    function Normalize (vec1 : T) return T;
+--    function ProjectOnto (vec1 : T; vec2 : T) return T;
+--    function Reflect (vec1 : T; refLine : T) return T;
+-- end Vector;

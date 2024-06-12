@@ -1,0 +1,9 @@
+name = "adavec"
+description = "Perform linear algebra operations with 2D, 3D, 4D matrices and vectors."
+version = "0.1.0-dev"
+
+authors = ["Jonathan Hough"]
+maintainers = ["Jonathan Hough <jon.g.hough@gmail.com>"]
+maintainers-logins = ["jonghough"]
+[[depends-on]]
+aunit = "^22.0.0"

@@ -1,0 +1,1 @@
+gnatmake -L../lib -ladavec -I../src sample_program.adb -o bin/sample_program
